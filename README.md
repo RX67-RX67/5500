@@ -8,5 +8,4 @@ As the author enters graduate school, he finds it increasingly important to mana
 
 To save some brainpower for more meaningful things, he decided to build a little helper using what he’s learned about data structures, algorithms, and data pipelines.
 
-## Idea
-![](image/idea.jpeg)
+
