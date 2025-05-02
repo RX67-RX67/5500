@@ -1,0 +1,23 @@
+[
+    {
+        "activity_name": "dsan class",
+        "category": "Study",
+        "date": "2025-04-28",
+        "start_time": "12:30",
+        "end_time": "15:00"
+    },
+    {
+        "activity_name": "dsan class",
+        "category": "Study",
+        "date": "2025-04-29",
+        "start_time": "18:30",
+        "end_time": "21:00"
+    },
+    {
+        "activity_name": "dsan class",
+        "category": "Study",
+        "date": "2025-05-01",
+        "start_time": "12:30",
+        "end_time": "15:00"
+    }
+]

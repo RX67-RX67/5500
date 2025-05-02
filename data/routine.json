@@ -1,0 +1,29 @@
+[
+    {
+        "activity_name": "dsan class",
+        "category": "Study",
+        "days": [
+            "Mon"
+        ],
+        "start_time": "12:30:00",
+        "end_time": "15:00:00"
+    },
+    {
+        "activity_name": "dsan class",
+        "category": "Study",
+        "days": [
+            "Tue"
+        ],
+        "start_time": "18:30:00",
+        "end_time": "21:00:00"
+    },
+    {
+        "activity_name": "dsan class",
+        "category": "Study",
+        "days": [
+            "Thu"
+        ],
+        "start_time": "12:30:00",
+        "end_time": "15:00:00"
+    }
+]

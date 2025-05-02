@@ -1,0 +1,29 @@
+[
+    {
+        "task_name": "work out",
+        "date": "2025-04-28",
+        "start_time": "08:00",
+        "end_time": "09:00",
+        "duration": 1.0,
+        "deadline": "2025-05-02",
+        "priority": "High"
+    },
+    {
+        "task_name": "do homework",
+        "date": "2025-04-29",
+        "start_time": "08:00",
+        "end_time": "10:00",
+        "duration": 2.0,
+        "deadline": "2025-05-04",
+        "priority": "Medium"
+    },
+    {
+        "task_name": "drink",
+        "date": "2025-04-30",
+        "start_time": "08:00",
+        "end_time": "11:00",
+        "duration": 3.0,
+        "deadline": "2025-05-04",
+        "priority": "Low"
+    }
+]
